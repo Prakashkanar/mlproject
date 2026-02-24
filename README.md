@@ -1,1 +1,1 @@
-## End to End ML project. This is my first ML project
+## End to End ML project.
