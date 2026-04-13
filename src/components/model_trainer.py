@@ -46,7 +46,7 @@ class ModelTrainer:
                "Linear Regression" : LinearRegression(),
                "K-Neighbors Classifier" : KNeighborsRegressor(),
                "XGBClassifier" : XGBRegressor(),
-               "CatBoositing Classifier" : CatBoostRegressor(verbose=False),
+               "CatBoosting Classifier" : CatBoostRegressor(verbose=False),
                "AdaBoosting classifier" : AdaBoostRegressor(),
             }
 
