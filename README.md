@@ -72,4 +72,4 @@ student-performance-prediction/
 │   ├── exception.py
 │   └── utils.py
 │
-└── templates/               # HTML templates (if Flask UI used)
+└── templates/             
